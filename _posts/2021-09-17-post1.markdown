@@ -1,0 +1,8 @@
+---
+layout: article
+title: Post 1
+image: 
+    teaser: post1.png
+---
+
+Hi! This is my first post.

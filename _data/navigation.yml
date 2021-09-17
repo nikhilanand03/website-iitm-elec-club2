@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt: 
+  image:
+
+- title: Blogs
+  url: /cat_blogs/
+  excerpt: "Interesting blog posts and articles"
+  image:
+
+- title: Sessions
+  url: /cat_sessions/
+  excerpt: "Sessions conducted by the club"
+  image:
+
+- title: Projects
+  url: /cat_projects/
+  excerpt: "Projects currently under the club"
+  image:
+
+- title: Competitions
+  url: /cat_competitions/
+  excerpt: "Competitions and achievements"
+  image:

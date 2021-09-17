@@ -1,0 +1,15 @@
+---
+layout: article
+title: Summer School 2021-22
+modified:
+category: sessions
+excerpt: "This is the Summer School conducted by CFI in July 2021"
+tags: []
+image:
+  feature: elec_feature.jpeg
+  teaser: summer.png
+  thumb:
+---
+
+
+{% include toc.html %}
