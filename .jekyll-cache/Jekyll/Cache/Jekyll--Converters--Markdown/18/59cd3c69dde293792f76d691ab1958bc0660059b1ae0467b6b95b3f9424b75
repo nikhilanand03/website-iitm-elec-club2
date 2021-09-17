@@ -1,0 +1,24 @@
+I"<div class="tiles">
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/cat_sessions/sessions/session1/" title="Summer School 2021-22" class="post-teaser"><img src="http://localhost:4000/images/summer.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2021-09-17" itemprop="datePublished">September 17, 2021</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/cat_sessions/sessions/session1/">Summer School 2021-22</a></h2>
+  <p class="post-excerpt" itemprop="description">This is the Summer School conducted by CFI in July 2021</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/post1/" title="Post 1" class="post-teaser"><img src="http://localhost:4000/images/post1.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2021-09-17" itemprop="datePublished">September 17, 2021</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/post1/">Post 1</a></h2>
+  <p class="post-excerpt" itemprop="description">Hi! This is my first post.
+</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET
